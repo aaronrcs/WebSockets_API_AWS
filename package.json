@@ -1,0 +1,23 @@
+{
+  "name": "websockets_api_aws",
+  "version": "1.0.0",
+  "description": "Serverless with Websockets API AWS Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronrcs/WebSockets_API_AWS.git"
+  },
+  "author": "Aaron Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronrcs/WebSockets_API_AWS/issues"
+  },
+  "homepage": "https://github.com/aaronrcs/WebSockets_API_AWS#readme",
+  "dependencies": {
+    "serverless": "^1.67.3",
+    "serverless-webpack": "^5.3.1"
+  }
+}
