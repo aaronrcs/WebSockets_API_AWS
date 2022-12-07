@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/aaronrcs/WebSockets_API_AWS#readme",
   "dependencies": {
-    "serverless": "^1.67.3",
+    "serverless": "^3.25.1",
     "serverless-webpack": "^5.3.1"
   }
 }
